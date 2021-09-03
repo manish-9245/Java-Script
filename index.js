@@ -34,7 +34,7 @@ var str2 = 'This is also a string';
 var marks = {
     ravi: 34,
     shubham: 78,
-    harry: 99.977
+    manish: 99.977
 }
 // console.log(marks);
 
@@ -178,20 +178,20 @@ let myArr = ["Fan", "Camera", 34, null, true];
 // Array Methods
 // console.log(myArr.length);
 // myArr.pop();
-// myArr.push("harry")
+// myArr.push("manish")
 // myArr.shift()
-// const newLen = myArr.unshift("Harry")
+// const newLen = myArr.unshift("manish")
 // console.log(newLen);
 // console.log(myArr);
 
 // String Methods in JavaScript
-let myLovelyString = "Harry is a good boy good good Harry";
+let myLovelyString = "manish is a good boy good good Manish";
 // console.log(myLovelyString.length)
 // console.log(myLovelyString.indexOf("good"))
 // console.log(myLovelyString.lastIndexOf("good"))
 
 // console.log(myLovelyString.slice(1,4))
-d = myLovelyString.replace("Harry", "Rohan");
+d = myLovelyString.replace("Manish", "Rohan");
 // d = d.replace("good", "bad");
 // console.log(d, myLovelyString)
 
@@ -283,18 +283,18 @@ logKaro = ()=>{
 // use clearInterval(clr)/clearTimeout(clr) to cancel setInterval/setTimeout
 
 // JavaScript localStorage
-// localStorage.setItem('name', 'harry') 
+// localStorage.setItem('name', 'manish') 
 // localStorage 
 // localStorage.getItem('name')
 // localStorage.removeItem('name')
 // localStorage.clear();
 
 // Json 
-// obj = {name: "harry", length: 1, a: {this: 'tha"t'}}
+// obj = {name: "manish", length: 1, a: {this: 'tha"t'}}
 // jso = JSON.stringify(obj);
 // console.log(typeof jso)
 // console.log(jso)
-// parsed = JSON.parse(`{"name":"harry","length":1,"a":{"this":"that"}}`)
+// parsed = JSON.parse(`{"name":"manish","length":1,"a":{"this":"that"}}`)
 // console.log(parsed);
 //JSON has only double quotes
 //string inside parsed can be kept between backticks(its between esc and tab)
